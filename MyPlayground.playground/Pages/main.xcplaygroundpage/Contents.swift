@@ -71,7 +71,7 @@ let b = 32
 ### 8. Print "true" if y is greater than x and a divided by b is greater than 9
 */
 // write your code here
-
+//it ate all my work.  All of it.  just for checking the stupid solution to the last stupid problem, which is poorly written for the intended answer.
 
 
 
